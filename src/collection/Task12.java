@@ -22,9 +22,6 @@ public class Task12 {
 		List<String> sub_String = list.subList(0, 3);
 		
 		System.out.println(sub_String);
-		
-		
-
 	}
 
 }
